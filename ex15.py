@@ -10,5 +10,5 @@ print("Type the filename again:")
 fileAgain = input(">")
 
 txtAgain = open(fileAgain)
-
+print(f"Here's the file, {filename}.")
 print(txtAgain.read())
