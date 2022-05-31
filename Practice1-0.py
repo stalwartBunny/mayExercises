@@ -1,5 +1,0 @@
-print("Hello World!")
-print("Hello World, again!")
-#print("Bunches and bunches of words and numbers.")
-print("3121532523413412")
-print("The end.")
